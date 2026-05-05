@@ -13,10 +13,10 @@ The tool contains functions that generate:
 Installing **metocean-stats**
 =============================
 
-Alternative 1: Using Mambaforge (alternative to Miniconda)
+Alternative 1: Using Miniforge (alternative to Miniconda)
 ----------------------------------------------------------
 
-1. Install `mambaforge <https://mamba.readthedocs.io/en/latest/installation.html>`_ (`download <https://github.com/conda-forge/miniforge#mambaforge>`_)
+1. Install `miniforge <https://github.com/conda-forge/miniforge>`_ (`download <https://github.com/conda-forge/miniforge#requirements-and-installers>`_)
 2. Set up a *Python 3* environment for metocean-stats and install metocean-stats
 
 .. code-block:: bash
@@ -24,10 +24,10 @@ Alternative 1: Using Mambaforge (alternative to Miniconda)
    $ mamba create -n metocean-stats python=3 metocean-stats
    $ conda activate metocean-stats
 
-Alternative 2: Using Mambaforge (alternative to Miniconda) and Git
+Alternative 2: Using Miniforge (alternative to Miniconda) and Git
 ------------------------------------------------------------------
 
-1. Install `mambaforge <https://mamba.readthedocs.io/en/latest/installation.html>`_ (`download <https://github.com/conda-forge/miniforge#mambaforge>`_)
+1. Install `miniforge <https://github.com/conda-forge/miniforge>`_ (`download <https://github.com/conda-forge/miniforge#requirements-and-installers>`_)
 2. Clone metocean-stats:
 
 .. code-block:: bash
